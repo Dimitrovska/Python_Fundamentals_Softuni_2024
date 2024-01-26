@@ -1,1 +1,1 @@
-# Python_Fundametals_Softuni_2024
+# Python_Fundamentals_Softuni_2024
